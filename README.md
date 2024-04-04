@@ -1,1 +1,2 @@
 # Pore-Network-Geometries-Impedance
+I am an undergraduate student at the University of Colorado Boulder in the Chemical and Biological Engineering Project. I am working on my senior thesis project studying various Pore Network Geometries. My graduate student, Filipe, and I derived a mathematical model for single pore charging that can be extended to full pore network geometries. This repository shows how we have numerically solved these pore network geometries using the method of finite differences.
